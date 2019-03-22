@@ -29,5 +29,10 @@ Delete the rest columns
 6. Move inside separate sheet every entry by using the "Регистрационен номер на превозно средство" as key and name for the page. 
 All entries without "Регистрационен номер на превозно средство" should go to "missing data" sheet.
 
-7. Save the resulting file, display end message.   
+7. Save the resulting file, display end message.
+
+Proposal for Java library to parse xls files (Java 8 compatible):
+   
+http://poi.apache.org/
+
   
